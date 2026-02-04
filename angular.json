@@ -32,7 +32,6 @@
       }
     }
   },
-  "defaultProject": "@ajsf/core",
   "schematics": {
     "@schematics/angular:component": {
       "style": "scss"
